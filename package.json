@@ -1,0 +1,22 @@
+{
+    "name": "com.xasset.xasset",
+    "version": "2023.1.0",
+    "displayName": "XAsset",
+    "description": "This is an example package",
+    "unity": "2019.1",
+    "documentationUrl": "https://xasset.cc/docs/getting-started",
+    "changelogUrl": "https://xasset.cc/docs/change-log",
+    "licensesUrl": "https://xasset.cc/license",
+    "samples": [
+        {
+            "displayName": "Example",
+            "description": "XAsset Example",
+            "path": "Samples~/Example"
+        }
+    ],
+    "author": {
+        "name": "xasset",
+        "email": "xasset@qq.com",
+        "url": "https://xasset.cc/"
+    }
+}
